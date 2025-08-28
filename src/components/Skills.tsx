@@ -19,7 +19,7 @@ const Skills = () => {
       title: "Backend",
       icon: "⚙️",
       skills: ["Node.js", "Express.js", "Flask", "RESTful APIs", "MySQL"],
-      gradient: "gradient-secondary"
+      gradient: "bg-gradient-to-r from-purple-400 via-indigo-400 to-blue-500"
     },
     {
       title: "Database",
@@ -37,7 +37,7 @@ const Skills = () => {
       title: "Developer Tools",
       icon: "🛠️",
       skills: ["Git", "GitHub", "VS Code", "Postman", "Render", "Netlify", "Vercel"],
-      gradient: "gradient-secondary"
+      gradient: "bg-gradient-to-r from-purple-400 via-indigo-400 to-blue-500"
     }
   ];
 

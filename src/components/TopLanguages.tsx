@@ -94,7 +94,7 @@ const TopLanguages = () => {
               <Card className="glass-card border-primary/20 hover-lift">
                 <CardContent className="p-6">
                   <div className="flex items-center mb-4">
-                    <div className="w-12 h-12 gradient-secondary rounded-full flex items-center justify-center mr-4">
+                    <div className="w-12 h-12 bg-gradient-to-r from-purple-400 via-indigo-400 to-blue-500 rounded-full flex items-center justify-center mr-4">
                       <span className="text-2xl">⚡</span>
                     </div>
                     <div>
